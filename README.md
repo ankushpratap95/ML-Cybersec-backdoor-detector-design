@@ -48,6 +48,7 @@
       
       E.g., `python3 eval.py data/cl/valid.h5 data/bd/bd_valid.h5 models/B_prime_10.h5`. This will output:
       Clean Classification accuracy: 84.43751623798389
+      
       Attack Success Rate: 77.015675067117
 
 ## IV. Important Notes
