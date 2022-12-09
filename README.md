@@ -47,6 +47,7 @@
       `python3 eval.py <clean validation data directory> <poisoned validation data directory> <model directory>`.
       
       E.g., `python3 eval.py data/cl/valid.h5 data/bd/bd_valid.h5 models/B_prime_10.h5`. 
+      
       This will output:
       Clean Classification accuracy: 84.43751623798389
       
